@@ -8,8 +8,6 @@ Además, integra funciones esenciales para el día a día de un negocio, como la
 
 El flujo de ventas es ágil: basta con hacer clic en los íconos de productos para agregarlos al **carrito de compras**, lo que lo convierte en una herramienta práctica tanto para ventas rápidas como para entornos donde se requiere precisión y control del inventario.  
 
-En resumen, este proyecto busca ser una base sólida sobre la cual se pueda construir y escalar, ya sea para un comercio pequeño que necesite un POS sencillo o para desarrolladores que quieran ampliarlo con más funcionalidades.  
-
 ---
 
 ## 🚀 Características principales
